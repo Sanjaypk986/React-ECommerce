@@ -1,0 +1,18 @@
+input[type="text"] {
+    outline: none; 
+  }
+  
+  input[type="text"]:focus {
+    border-color: transparent;
+  }
+  header{
+    font-family: "Geograph Bold";
+    
+  }
+  nav ul li a{
+    color: rgba(0, 0, 0, 0.753);
+  }
+  nav ul li a:hover{
+    color: rgb(0, 0, 0);
+  }
+  

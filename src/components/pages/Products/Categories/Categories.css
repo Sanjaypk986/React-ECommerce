@@ -1,0 +1,14 @@
+.card{
+    position: relative;
+}
+.resized-image{
+    transition: transform 0.3s ease-in-out;
+    object-fit: cover;
+    
+}
+.card:hover .resized-image {
+    transform: scale(1.1);
+}
+.card:hover .shop-now {
+    opacity: 1;
+}
